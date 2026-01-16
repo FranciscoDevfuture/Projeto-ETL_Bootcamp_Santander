@@ -40,13 +40,3 @@ Os dados transformados são exportados para um novo ficheiro CSV (`resultado_fin
 
 Este projeto demonstra como a automação de dados substitui processos manuais repetitivos, reduzindo erros humanos e aumentando a eficiência no tratamento de grandes volumes de informação.
 
----
-
-### 💡 Dica extra para o seu GitHub:
-
-1. No seu repositório, clique em **"Add file"** > **"Create new file"**.
-2. Dê o nome de `README.md`.
-3. Cole o texto acima.
-4. No campo debaixo ("Commit changes"), escreva "Initial commit: README do projeto ETL" e clique em **Commit**.
-
-**Agora o teu projeto já tem uma cara profissional! Precisas de ajuda para colocar o código final dentro do GitHub também?**
