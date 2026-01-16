@@ -1,10 +1,52 @@
-# Projeto ETL_Bootcamp_Santander
-Projeto de Um processo de ETL é dividido em três etapas lógicas:  Extract (Extrair): Leitura do arquivo CSV bruto.  Transform (Transformar): Limpeza de dados, cálculos e formatação.  Load (Carregar): Salvamento do dado processado em um novo arquivo (ou banco de dados).
 
-Saída espera:
-ETL concluído! Arquivo 'resultado_simples.csv' criado.
-listas de convidados	idade	confirmado	maior_de_idade
-0	1.Francisco	42	ok	True
-1	2.Flaviana	34	ok	True
-2	3.Lucas	11	ok	False
-3	4.Mariana	8	não	False
+
+# 📊 Projeto ETL: Processamento de Dados com Python e Pandas
+
+## 📝 Descrição do Projeto
+
+Este projeto foi desenvolvido como parte do **Bootcamp Santander 2023**, focado em demonstrar o ciclo de vida de um processo de **ETL** (Extração, Transformação e Carga). O objetivo principal é automatizar o tratamento de uma lista de convidados, transformando dados brutos num relatório higienizado e pronto para análise.
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** Python 3.x
+* **Biblioteca Principal:** [Pandas](https://pandas.pydata.org/) (Manipulação e análise de dados)
+* **Ambiente:** Google Colab
+
+## ⚙️ O Fluxo ETL
+
+### 1. Extração (Extract)
+
+A origem dos dados é um ficheiro `convidados.csv`. O script faz a leitura automática deste ficheiro, convertendo-o num DataFrame do Pandas para manipulação em memória.
+
+### 2. Transformação (Transform)
+
+Nesta etapa, os dados brutos passam por regras de negócio:
+
+* **Limpeza:** Padronização de nomes e tratamento de valores ausentes.
+* **Lógica de Negócio:** Criação de colunas calculadas (ex: verificação de maioridade ou classificação de convidados).
+* **Filtragem:** Seleção apenas das informações relevantes para o relatório final.
+
+### 3. Carga (Load)
+
+Os dados transformados são exportados para um novo ficheiro CSV (`resultado_final.csv`), garantindo a persistência da informação processada para uso em ferramentas de BI ou dashboards.
+
+## 🚀 Como Executar o Projeto
+
+1. Faça o upload do arquivo `convidados.csv` para o seu ambiente (Google Colab ou local).
+2. Execute o script Python `etl_projeto.py`.
+3. Verifique o novo arquivo gerado na sua pasta de saída.
+
+## 📈 Conclusão
+
+Este projeto demonstra como a automação de dados substitui processos manuais repetitivos, reduzindo erros humanos e aumentando a eficiência no tratamento de grandes volumes de informação.
+
+---
+
+### 💡 Dica extra para o seu GitHub:
+
+1. No seu repositório, clique em **"Add file"** > **"Create new file"**.
+2. Dê o nome de `README.md`.
+3. Cole o texto acima.
+4. No campo debaixo ("Commit changes"), escreva "Initial commit: README do projeto ETL" e clique em **Commit**.
+
+**Agora o teu projeto já tem uma cara profissional! Precisas de ajuda para colocar o código final dentro do GitHub também?**
