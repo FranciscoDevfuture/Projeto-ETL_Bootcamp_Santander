@@ -4,7 +4,8 @@
 
 ## 📝 Descrição do Projeto
 
-Este projeto foi desenvolvido como parte do **Bootcamp Santander 2023**, focado em demonstrar o ciclo de vida de um processo de **ETL** (Extração, Transformação e Carga). O objetivo principal é automatizar o tratamento de uma lista de convidados, transformando dados brutos num relatório higienizado e pronto para análise.
+Este projeto foi desenvolvido como parte do **Bootcamp Santander 2025
+**, focado em demonstrar o ciclo de vida de um processo de **ETL** (Extração, Transformação e Carga). O objetivo principal é automatizar o tratamento de uma lista de convidados, transformando dados brutos num relatório higienizado e pronto para análise.
 
 ## 🛠️ Tecnologias Utilizadas
 
