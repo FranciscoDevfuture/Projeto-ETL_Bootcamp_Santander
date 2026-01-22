@@ -44,4 +44,4 @@ Este projeto demonstra como a automação de dados substitui processos manuais r
 ![Projeto-ETL_Bootcamp_Santander](./códigos.png)
 ![Projeto-ETL_Bootcamp_Santander](./upload_do_arquivo.png)
 ![Projeto-ETL_Bootcamp_Santander](./Dados_dos_convidados.png)
-![Projeto-ETL_Bootcamp_Santander](./csaida_de_resultados.png)
+![Projeto-ETL_Bootcamp_Santander](./saida_de_resultados.png)
