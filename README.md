@@ -42,6 +42,6 @@ Os dados transformados são exportados para um novo ficheiro CSV (`resultado_fin
 Este projeto demonstra como a automação de dados substitui processos manuais repetitivos, reduzindo erros humanos e aumentando a eficiência no tratamento de grandes volumes de informação.
 
 ![Projeto-ETL_Bootcamp_Santander](./códigos.png)
-![Projeto-ETL_Bootcamp_Santander](./upload_do_arquivo.png)
+![Projeto-ETL_Bootcamp_Santander](./upload_do_arquivo_csv.png)
 ![Projeto-ETL_Bootcamp_Santander](./Dados_dos_convidados.png)
 ![Projeto-ETL_Bootcamp_Santander](./saida_de_resultados.png)
